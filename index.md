@@ -68,5 +68,5 @@ Highly analytical professional pursuing a **Master of Science in Information - B
 ---
 
 ### **Let's Connect!**
-* [**LinkedIn Profile**](your-linkedin-url-here)
+* [**LinkedIn Profile**]([your-linkedin-url-here](https://www.linkedin.com/in/xinyi-luo-1344a6291/))
 * [**Download My Full Resume**](assets/Resume_Xinyi_Luo1.pdf)
